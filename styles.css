@@ -1,0 +1,37 @@
+*{ 
+	text-align:center;
+	font-family:Tahoma;
+}
+
+nav{
+	background-color:#759EB8;
+	padding:10px;
+}
+
+h1{
+	font-size:45px;
+	font-family:Garamond, serif;
+}
+
+ul,li, dt, dd{
+	text-align:left;
+}
+
+#pmain{
+	background-color:#B3C5D7;
+	padding:21px 200px 21px 200px;
+	font-size:19px;
+	line-height:120%;
+}
+
+.ppic{
+	width:500px;
+	padding:30px;
+	font-size:17px;
+	background-color:#F3F0EF;
+}
+
+body{
+	background-color:#D8E1E9;
+	margin:50px;
+}
